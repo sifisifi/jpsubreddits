@@ -3,3 +3,5 @@ core
 .cabal-sandbox/
 dist/
 cabal.sandbox.config
+jpsubreddits.json
+jpsubreddits-pretty.json
