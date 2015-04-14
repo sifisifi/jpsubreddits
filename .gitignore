@@ -1,0 +1,4 @@
+*.swp
+core
+.cabal-sandbox/
+dist/
