@@ -1,0 +1,6 @@
+{
+  "name": "JP subreddits",
+  "tagline": "Generate json that contains the japanese subreddits information.",
+  "body": "日本語Subredditをまとめたjsonを出力する為のソフトウェアです。\r\n\r\nニュー速Rのwikiページにある『[日本語サブレ一覧 簡易版](http://www.reddit.com/r/newsokur/wiki/simple_list_ja)』を基にjsonを出力します。\r\n\r\ncronや手動で定期的に実行し、生成したjsonをレンタルサーバー等に配置する事を想定しています。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
