@@ -1,0 +1,1136 @@
+{
+  "generated_at": "2016-03-21 21:23:43.277256 JST",
+  "jpsubreddits": [
+    {
+      "category": "ニュース・実況",
+      "list": [
+        {
+          "title": "ニュー速R",
+          "url": "/r/newsokur"
+        },
+        {
+          "title": "ニュースG",
+          "url": "/r/newsg"
+        },
+        {
+          "title": "ニュース専用",
+          "url": "/r/news_ja"
+        },
+        {
+          "title": "ニュー速NoMoral",
+          "url": "/r/newsokunomoral"
+        },
+        {
+          "title": "速R2",
+          "url": "/r/sokur2"
+        },
+        {
+          "title": "ニュース速報Radical",
+          "url": "/r/news_r"
+        },
+        {
+          "title": "政治",
+          "url": "/r/Politics_ja"
+        },
+        {
+          "title": "国会",
+          "url": "/r/kokkai"
+        },
+        {
+          "title": "議員",
+          "url": "/r/giin"
+        },
+        {
+          "title": "選挙",
+          "url": "/r/senkyo"
+        },
+        {
+          "title": "世論調査",
+          "url": "/r/yoronchosa"
+        },
+        {
+          "title": "みんなの報道",
+          "url": "/r/news_bp"
+        },
+        {
+          "title": "ネット市民オンブズマン",
+          "url": "/r/ombudsman_ja"
+        },
+        {
+          "title": "社説・論説",
+          "url": "/r/Editorial_jp"
+        },
+        {
+          "title": "産経新聞の捏造",
+          "url": "/r/TUSOSS"
+        },
+        {
+          "title": "I am not Abe",
+          "url": "/r/I_am_not_Abe"
+        },
+        {
+          "title": "国際情勢",
+          "url": "/r/kokusaijyousei_ja"
+        },
+        {
+          "title": "エネルギーニュース",
+          "url": "/r/energy_news_ja"
+        },
+        {
+          "title": "天文・気象",
+          "url": "/r/sky_ja"
+        },
+        {
+          "title": "地震・災害",
+          "url": "/r/quake_jp"
+        },
+        {
+          "title": "映画ニュース",
+          "url": "/r/eiganews"
+        },
+        {
+          "title": "ゲーム速報",
+          "url": "/r/gamenews"
+        },
+        {
+          "title": "娯楽総合",
+          "url": "/r/entertainment_jp"
+        },
+        {
+          "title": "バカニュース",
+          "url": "/r/BakaNewsJP"
+        },
+        {
+          "title": "なんJ",
+          "url": "/r/nanJ"
+        },
+        {
+          "title": "カテゴリ雑談・実況",
+          "url": "/r/kansou_jp"
+        },
+        {
+          "title": "議論",
+          "url": "/r/Giron"
+        }
+      ]
+    },
+    {
+      "category": "社会・職業",
+      "list": [
+        {
+          "title": "市況",
+          "url": "/r/shikyo"
+        },
+        {
+          "title": "クレカ・電子マネー",
+          "url": "/r/CreditCard_jp"
+        },
+        {
+          "title": "ハローワーク",
+          "url": "/r/hellowork"
+        },
+        {
+          "title": "資格・免許",
+          "url": "/r/qualification_jp"
+        },
+        {
+          "title": "IAmA(Japan)",
+          "url": "/r/IAmA_ja"
+        },
+        {
+          "title": "学生総合",
+          "url": "/r/Gakusei_ja"
+        },
+        {
+          "title": "英語",
+          "url": "/r/eigo"
+        },
+        {
+          "title": "通訳",
+          "url": "/r/interpretation_ja"
+        },
+        {
+          "title": "海外生活",
+          "url": "/r/kaigai_seikatsu"
+        },
+        {
+          "title": "心と身体",
+          "url": "/r/kokoro"
+        },
+        {
+          "title": "体と健康",
+          "url": "/r/karada"
+        },
+        {
+          "title": "糖質制限ダイエット",
+          "url": "/r/ketojapan"
+        },
+        {
+          "title": "ハゲ",
+          "url": "/r/hage"
+        },
+        {
+          "title": "オウム真理教総合",
+          "url": "/r/aum_shinrikyo"
+        }
+      ]
+    },
+    {
+      "category": "学問",
+      "list": [
+        {
+          "title": "哲学",
+          "url": "/r/philo_jp"
+        },
+        {
+          "title": "西洋史",
+          "url": "/r/whistory_ja"
+        },
+        {
+          "title": "旧ソ連諸国",
+          "url": "/r/cis_ja"
+        },
+        {
+          "title": "言語学",
+          "url": "/r/linguistics_ja"
+        },
+        {
+          "title": "科学総合",
+          "url": "/r/science_jp"
+        },
+        {
+          "title": "天文・気象",
+          "url": "/r/sky_ja"
+        }
+      ]
+    },
+    {
+      "category": "趣味",
+      "list": [
+        {
+          "title": "特撮R",
+          "url": "/r/J_SFX"
+        },
+        {
+          "title": "テレビドラマ",
+          "url": "/r/tvdrama_jp"
+        },
+        {
+          "title": "ラジオ実況R",
+          "url": "/r/Radio_ja"
+        },
+        {
+          "title": "テレビ実況R",
+          "url": "/r/TV_ja"
+        },
+        {
+          "title": "映画ニュース",
+          "url": "/r/eiganews"
+        },
+        {
+          "title": "映画作品・人",
+          "url": "/r/movie_ja"
+        },
+        {
+          "title": "映画を当てる",
+          "url": "/r/GuessTheEiga"
+        },
+        {
+          "title": "読書書籍板R",
+          "url": "/r/dokusyo_syoseki_r"
+        },
+        {
+          "title": "小説家になろう",
+          "url": "/r/narou"
+        },
+        {
+          "title": "ミニコミ誌「Zartan」",
+          "url": "/r/Zartan_branch"
+        },
+        {
+          "title": "自作ポエム",
+          "url": "/r/jisaku_poem"
+        },
+        {
+          "title": "リレー小説",
+          "url": "/r/relaynovel_ja"
+        },
+        {
+          "title": "縄文",
+          "url": "/r/Jomon"
+        },
+        {
+          "title": "戦国",
+          "url": "/r/sengoku"
+        },
+        {
+          "title": "三國志",
+          "url": "/r/Sangokushi"
+        },
+        {
+          "title": "神社マニヤ",
+          "url": "/r/jinjya"
+        },
+        {
+          "title": "クトゥルフ神話",
+          "url": "/r/Cthulhu_ja"
+        },
+        {
+          "title": "写真",
+          "url": "/r/Photograph_ja"
+        },
+        {
+          "title": "旅行",
+          "url": "/r/travel_ja"
+        },
+        {
+          "title": "オートバイ部",
+          "url": "/r/motorcycle_ja"
+        },
+        {
+          "title": "河川・湖沼・ダム",
+          "url": "/r/dam_jp"
+        },
+        {
+          "title": "マンホールの蓋",
+          "url": "/r/manhole_jp"
+        },
+        {
+          "title": "ペット大好き",
+          "url": "/r/petdaisuki"
+        },
+        {
+          "title": "アクアリウム",
+          "url": "/r/Aquariums_ja"
+        },
+        {
+          "title": "シマリス",
+          "url": "/r/chipmunk_ja"
+        },
+        {
+          "title": "ハムスター",
+          "url": "/r/hamsters_ja"
+        },
+        {
+          "title": "園芸",
+          "url": "/r/engei"
+        },
+        {
+          "title": "キノコ",
+          "url": "/r/kinoko_jp"
+        },
+        {
+          "title": "地衣類",
+          "url": "/r/Lichenes_ja"
+        },
+        {
+          "title": "蘚苔類",
+          "url": "/r/koke_ja"
+        },
+        {
+          "title": "おもちゃ",
+          "url": "/r/toys_ja"
+        },
+        {
+          "title": "プラモデル",
+          "url": "/r/plasticmodel_ja"
+        },
+        {
+          "title": "ラジコン",
+          "url": "/r/radiocontrol_ja"
+        },
+        {
+          "title": "アニメフィギュア",
+          "url": "/r/AnimeFigures_ja"
+        },
+        {
+          "title": "ドール",
+          "url": "/r/dolls_ja"
+        },
+        {
+          "title": "万華鏡",
+          "url": "/r/kaleidoscope_ja"
+        },
+        {
+          "title": "小屋",
+          "url": "/r/koya_ja"
+        },
+        {
+          "title": "ダーツ",
+          "url": "/r/darts_ja"
+        },
+        {
+          "title": "パチンコ＆スロット",
+          "url": "/r/pachinko_slot"
+        },
+        {
+          "title": "100均",
+          "url": "/r/100kin"
+        },
+        {
+          "title": "クラフト",
+          "url": "/r/craft_ja"
+        },
+        {
+          "title": "文房具",
+          "url": "/r/stationery_jp"
+        },
+        {
+          "title": "煙草銘柄・喫煙具",
+          "url": "/r/tobacco_ja"
+        },
+        {
+          "title": "刃物・ナイフ",
+          "url": "/r/knives_ja"
+        },
+        {
+          "title": "サバイバルゲーム",
+          "url": "/r/airsoft_jp"
+        },
+        {
+          "title": "家電製品",
+          "url": "/r/kaden_ja"
+        },
+        {
+          "title": "デジタルカメラ",
+          "url": "/r/digitalcamera_jp"
+        },
+        {
+          "title": "ポータブルAV",
+          "url": "/r/PortableAV_JP"
+        },
+        {
+          "title": "シャワートイレ",
+          "url": "/r/washlet_jp"
+        },
+        {
+          "title": "掃除",
+          "url": "/r/souji_ja"
+        },
+        {
+          "title": "軍事",
+          "url": "/r/MILITARY_JP"
+        },
+        {
+          "title": "陰謀タイム",
+          "url": "/r/inbou_ja"
+        },
+        {
+          "title": "オカルト",
+          "url": "/r/occult_ja"
+        },
+        {
+          "title": "廃墟",
+          "url": "/r/ruins_jp"
+        },
+        {
+          "title": "人が死ぬ瞬間",
+          "url": "/r/hitogashinu"
+        }
+      ]
+    },
+    {
+      "category": "スポーツ",
+      "list": [
+        {
+          "title": "サッカー",
+          "url": "/r/soccer_jp"
+        },
+        {
+          "title": "競馬",
+          "url": "/r/keiba"
+        },
+        {
+          "title": "相撲R",
+          "url": "/r/sumo_ja"
+        },
+        {
+          "title": "自転車",
+          "url": "/r/bicycle_ja"
+        },
+        {
+          "title": "モータースポーツ",
+          "url": "/r/Motorsports_ja"
+        },
+        {
+          "title": "野球（なんJ）",
+          "url": "/r/nanJ"
+        },
+        {
+          "title": "横浜ベイスターズ",
+          "url": "/r/BayStars"
+        },
+        {
+          "title": "プロレス",
+          "url": "/r/prowrestling_ja"
+        }
+      ]
+    },
+    {
+      "category": "食品",
+      "list": [
+        {
+          "title": "料理",
+          "url": "/r/cooking_ja"
+        },
+        {
+          "title": "お酒・BAR",
+          "url": "/r/drunk_ja"
+        },
+        {
+          "title": "ドクターペッパー",
+          "url": "/r/drpepper_ja"
+        },
+        {
+          "title": "ふどぽんじゃ",
+          "url": "/r/FoodPorn_ja"
+        },
+        {
+          "title": "にくじゃが",
+          "url": "/r/nikujaga"
+        }
+      ]
+    },
+    {
+      "category": "音楽",
+      "list": [
+        {
+          "title": "音楽総合R",
+          "url": "/r/ongakur"
+        },
+        {
+          "title": "プログレ",
+          "url": "/r/progre_jp"
+        },
+        {
+          "title": "メタル",
+          "url": "/r/METAL_jp"
+        },
+        {
+          "title": "ギター・ベース",
+          "url": "/r/GuitarBass_JA"
+        },
+        {
+          "title": "音楽制作・DTM",
+          "url": "/r/musicmakers_ja"
+        },
+        {
+          "title": "アニソン",
+          "url": "/r/anison_jp"
+        },
+        {
+          "title": "ボーカロイド・UTAU",
+          "url": "/r/VOCALOID_UTAU_jp"
+        },
+        {
+          "title": "ゲーム音楽",
+          "url": "/r/gamemusic_jp"
+        },
+        {
+          "title": "エロゲソング",
+          "url": "/r/eroson_jp"
+        },
+        {
+          "title": "BABYMETAL",
+          "url": "/r/BABYMETAL_japan"
+        },
+        {
+          "title": "AKB48",
+          "url": "/r/akb48"
+        },
+        {
+          "title": "B'z",
+          "url": "/r/bzvermillion"
+        }
+      ]
+    },
+    {
+      "category": "アニメ",
+      "list": [
+        {
+          "title": "アニメ",
+          "url": "/r/japan_anime"
+        },
+        {
+          "title": "声優",
+          "url": "/r/charactorvoice"
+        },
+        {
+          "title": "女性声優ブログ",
+          "url": "/r/vablog_ja"
+        },
+        {
+          "title": "アニキャラ個別",
+          "url": "/r/anikyar_ja"
+        },
+        {
+          "title": "懐アニ",
+          "url": "/r/old_anime_jp"
+        },
+        {
+          "title": "ラブライブ！",
+          "url": "/r/lovelive_ja"
+        },
+        {
+          "title": "ラブライブ！ サンシャイン!!",
+          "url": "/r/lovelive_sunshine_ja"
+        },
+        {
+          "title": "Wake Up, Girls !",
+          "url": "/r/wakeupgirls_jp"
+        },
+        {
+          "title": "マイリトルポニー",
+          "url": "/r/mylittlepony_ja"
+        },
+        {
+          "title": "プリパラ",
+          "url": "/r/Pripara_Ja"
+        },
+        {
+          "title": "GJ部",
+          "url": "/r/GJbu"
+        }
+      ]
+    },
+    {
+      "category": "マンガ",
+      "list": [
+        {
+          "title": "ウェブ漫画見張り所",
+          "url": "/r/webcomic_ja"
+        },
+        {
+          "title": "マンガ",
+          "url": "/r/ja_manga"
+        },
+        {
+          "title": "お絵かき",
+          "url": "/r/Oekaki_ja"
+        },
+        {
+          "title": "レイジコミック",
+          "url": "/r/fffffffuuuuuuuuuuuuJP"
+        }
+      ]
+    },
+    {
+      "category": "ゲーム",
+      "list": [
+        {
+          "title": "Steam部",
+          "url": "/r/steamr"
+        },
+        {
+          "title": "PCゲーム",
+          "url": "/r/pcgames_ja"
+        },
+        {
+          "title": "家庭用ゲーム全般",
+          "url": "/r/consolegame"
+        },
+        {
+          "title": "スマホゲーム",
+          "url": "/r/jp_smahogames"
+        },
+        {
+          "title": "携帯電話ゲーム",
+          "url": "/r/appligame_jp"
+        },
+        {
+          "title": "IOSゲーム",
+          "url": "/r/iosgame_ja"
+        },
+        {
+          "title": "ブラウザゲーム",
+          "url": "/r/browsergame_jp"
+        },
+        {
+          "title": "音ゲー",
+          "url": "/r/otoge"
+        },
+        {
+          "title": "格闘ゲーム",
+          "url": "/r/Kakuge"
+        },
+        {
+          "title": "MMORPG",
+          "url": "/r/mmorpg_ja"
+        },
+        {
+          "title": "レトロゲーム部",
+          "url": "/r/retrogamejp"
+        },
+        {
+          "title": "ゲーム速報",
+          "url": "/r/gamenews_ja"
+        },
+        {
+          "title": "ゲーム開発",
+          "url": "/r/gamedev_ja"
+        },
+        {
+          "title": "将棋R",
+          "url": "/r/shogiR"
+        },
+        {
+          "title": "卓上ゲーム",
+          "url": "/r/TableTopGames_ja"
+        },
+        {
+          "title": "任天堂ゲーム",
+          "url": "/r/nintendo_jp"
+        }
+      ]
+    },
+    {
+      "category": "ゲーム作品",
+      "list": [
+        {
+          "title": "スライムのおへや",
+          "url": "/r/dq_oheya_ja"
+        },
+        {
+          "title": "ポケモン",
+          "url": "/r/pokemon_jp"
+        },
+        {
+          "title": "アイドルマスター",
+          "url": "/r/imas_ja"
+        },
+        {
+          "title": "マインクラフト",
+          "url": "/r/minecraft_jp"
+        },
+        {
+          "title": "Smite",
+          "url": "/r/Smite_JP"
+        },
+        {
+          "title": "東方シリーズ",
+          "url": "/r/touhou_jp"
+        },
+        {
+          "title": "Heroes of the Storm",
+          "url": "/r/heroesofthestorm_ja"
+        },
+        {
+          "title": "Cities: Skylines",
+          "url": "/r/citiesskylines_ja"
+        },
+        {
+          "title": "Dota2",
+          "url": "/r/dota2_JP"
+        },
+        {
+          "title": "LoL",
+          "url": "/r/League_of_Legends_JP"
+        },
+        {
+          "title": "FF14",
+          "url": "/r/ffxiv_ja"
+        },
+        {
+          "title": "The Long Dark_JP",
+          "url": "/r/thelongdark_jp"
+        },
+        {
+          "title": "StarCraft_JP",
+          "url": "/r/StarCraft_JP"
+        },
+        {
+          "title": "艦これ",
+          "url": "/r/kancolle_ja"
+        },
+        {
+          "title": "Skyrim MOD 日本語",
+          "url": "/r/skyrimmod_jp"
+        },
+        {
+          "title": "ドラゴンクエストX",
+          "url": "/r/dqx_jp"
+        },
+        {
+          "title": "PSO2",
+          "url": "/r/PSO2_jp"
+        },
+        {
+          "title": "Rocksmith総合",
+          "url": "/r/rocksmith_jp"
+        },
+        {
+          "title": "パズル＆ドラゴンズ",
+          "url": "/r/PuzzleAndDragons_ja"
+        },
+        {
+          "title": "Ingress",
+          "url": "/r/ingress_ja"
+        },
+        {
+          "title": "GTA V",
+          "url": "/r/GTAV_JP"
+        },
+        {
+          "title": "任天堂",
+          "url": "/r/nintendo_jp"
+        },
+        {
+          "title": "Elona",
+          "url": "/r/elona_jp"
+        },
+        {
+          "title": "モノリスソフト",
+          "url": "/r/MONOLITHSOFT_JP"
+        },
+        {
+          "title": "ガンタムブレイカー2",
+          "url": "/r/gundambreaker2_jp"
+        },
+        {
+          "title": "モンスターハンター",
+          "url": "/r/MonsterHunter_jp"
+        },
+        {
+          "title": "ローグライク",
+          "url": "/r/RogueLikesLOS"
+        },
+        {
+          "title": "オルタンシア・サーガ",
+          "url": "/r/hortensia_saga"
+        },
+        {
+          "title": "超銀河船団",
+          "url": "/r/Cho_Ginga_Sendan_jp"
+        },
+        {
+          "title": "Counter-Strike: Global Offensive",
+          "url": "/r/GlobalOffensive_ja"
+        },
+        {
+          "title": "ケイオスドラゴン",
+          "url": "/r/chaos_dragon"
+        },
+        {
+          "title": "グランブルーファンタジー",
+          "url": "/r/granbluefantasy_ja"
+        },
+        {
+          "title": "ファイアーエムブレム",
+          "url": "/r/FireEmblem_ja"
+        },
+        {
+          "title": "ダークソウル3",
+          "url": "/r/Darksouls3_ja"
+        }
+      ]
+    },
+    {
+      "category": "PC関係",
+      "list": [
+        {
+          "title": "ソフトウェア",
+          "url": "/r/software_ja"
+        },
+        {
+          "title": "プログラミング",
+          "url": "/r/programming_jp"
+        },
+        {
+          "title": "プログラミング言語",
+          "url": "/r/p18s"
+        },
+        {
+          "title": "CSS日本語版",
+          "url": "/r/css_ja"
+        },
+        {
+          "title": "ハードウェア",
+          "url": "/r/hardware_ja"
+        },
+        {
+          "title": "自作PC",
+          "url": "/r/jisakupc"
+        },
+        {
+          "title": "ラズパイ（超小型PC）",
+          "url": "/r/raspberry_pi_ja"
+        },
+        {
+          "title": "Hackintosh_ja",
+          "url": "/r/hackintosh_ja"
+        },
+        {
+          "title": "Apple製品総合",
+          "url": "/r/apple_jp"
+        },
+        {
+          "title": "Android",
+          "url": "/r/Android_JP"
+        },
+        {
+          "title": "Windows Phone",
+          "url": "/r/windowsphonejp"
+        },
+        {
+          "title": "ゲーミングデバイス",
+          "url": "/r/Gaming_Device"
+        },
+        {
+          "title": "CG",
+          "url": "/r/CG_ja"
+        },
+        {
+          "title": "映像制作",
+          "url": "/r/eizo"
+        },
+        {
+          "title": "セキュリティ",
+          "url": "/r/security_ja"
+        },
+        {
+          "title": "オンラインストレージ",
+          "url": "/r/OnlineStorage_ja"
+        },
+        {
+          "title": "暗号通貨",
+          "url": "/r/cryptocurrency_ja"
+        },
+        {
+          "title": "Tor",
+          "url": "/r/tor_jp"
+        },
+        {
+          "title": "Freenet",
+          "url": "/r/Freenet_jp"
+        },
+        {
+          "title": "鯖型専ブラrep2スレ",
+          "url": "/r/rep2_2ch_ja"
+        },
+        {
+          "title": "専ブラ・ピルグリム",
+          "url": "/r/pilgrim_android"
+        },
+        {
+          "title": "専ブラ・Reddiest",
+          "url": "/r/Reddiest"
+        },
+        {
+          "title": "Reddit Enhance Suite",
+          "url": "/r/Enhancement_ja"
+        }
+      ]
+    },
+    {
+      "category": "雑談",
+      "list": [
+        {
+          "title": "ニュー速Rev",
+          "url": "/r/newsokurev"
+        },
+        {
+          "title": "ニュー速VIP",
+          "url": "/r/newsokuvip"
+        },
+        {
+          "title": "意識低い",
+          "url": "/r/lowlevelaware"
+        },
+        {
+          "title": "コテザツ",
+          "url": "/r/kotezatsu"
+        },
+        {
+          "title": "ニー速R",
+          "url": "/r/neet4r"
+        },
+        {
+          "title": "ぱしへろんだす",
+          "url": "/r/tarazou"
+        },
+        {
+          "title": "クソスレッド全般",
+          "url": "/r/kusosure"
+        },
+        {
+          "title": "ジャップ連呼",
+          "url": "/r/sayjaaaaaaap"
+        },
+        {
+          "title": "シャア専用",
+          "url": "/r/Charsenyou"
+        },
+        {
+          "title": "画像",
+          "url": "/r/gazou"
+        },
+        {
+          "title": "一文字",
+          "url": "/r/hitomozi_ja"
+        },
+        {
+          "title": "ネット懐古",
+          "url": "/r/netkaiko_jp"
+        },
+        {
+          "title": "今日知ったんだが",
+          "url": "/r/todayilearned_jp"
+        },
+        {
+          "title": "アンケート",
+          "url": "/r/nsrsurvey_jp"
+        },
+        {
+          "title": "アホトーク",
+          "url": "/r/ahotalk"
+        },
+        {
+          "title": "落書き帳",
+          "url": "/r/rakugakicho"
+        },
+        {
+          "title": "知恵袋",
+          "url": "/r/chiebukuro"
+        },
+        {
+          "title": "アナーキー",
+          "url": "/r/anarchy_anarchism"
+        },
+        {
+          "title": "404",
+          "url": "/r/nfja"
+        },
+        {
+          "title": "大喜利",
+          "url": "/r/oogiri"
+        },
+        {
+          "title": "ふぇぇ",
+          "url": "/r/Fuee"
+        },
+        {
+          "title": "やろう！",
+          "url": "/r/yarou"
+        },
+        {
+          "title": "ものすごい勢いで質問に答える",
+          "url": "/r/AskReddit_ja"
+        },
+        {
+          "title": "ぬ",
+          "url": "/r/nununununu"
+        },
+        {
+          "title": "雑R",
+          "url": "/r/zatuR"
+        },
+        {
+          "title": "流星街",
+          "url": "/r/ryuuseigai"
+        },
+        {
+          "title": "スレタイ速報",
+          "url": "/r/suresoku"
+        }
+      ]
+    },
+    {
+      "category": "PINK",
+      "list": [
+        {
+          "title": "PINK全般",
+          "url": "/r/pinkall"
+        },
+        {
+          "title": "角煮R",
+          "url": "/r/KakuniR"
+        },
+        {
+          "title": "レズ百合萌え",
+          "url": "/r/yuri_jp"
+        },
+        {
+          "title": "お絵かき部",
+          "url": "/r/drawr"
+        },
+        {
+          "title": "真夏の夜の淫夢",
+          "url": "/r/YJSNPI"
+        },
+        {
+          "title": "エロ画像",
+          "url": "/r/erogazo"
+        },
+        {
+          "title": "アイドル画像",
+          "url": "/r/idolgazou"
+        },
+        {
+          "title": "オナニー",
+          "url": "/r/shikokuchu"
+        },
+        {
+          "title": "女神",
+          "url": "/r/megami"
+        },
+        {
+          "title": "おかまおなべ",
+          "url": "/r/okamaonabe"
+        },
+        {
+          "title": "エロゲ速報",
+          "url": "/r/erogenews_ja"
+        },
+        {
+          "title": "エロゲー制作",
+          "url": "/r/gamedev_hentai"
+        },
+        {
+          "title": "まんこ",
+          "url": "/r/manko"
+        },
+        {
+          "title": "例のプール",
+          "url": "/r/reinopool"
+        }
+      ]
+    },
+    {
+      "category": "その他",
+      "list": [
+        {
+          "title": "MODの集い",
+          "url": "/r/modclubhouse_ja"
+        },
+        {
+          "title": "アフィカス対策",
+          "url": "/r/measures"
+        },
+        {
+          "title": "アーカイブ",
+          "url": "/r/nsrarchive_jp"
+        },
+        {
+          "title": "AA倉庫",
+          "url": "/r/asciiart_jp"
+        },
+        {
+          "title": "ニュー速R運営用",
+          "url": "/r/newsokurMod"
+        },
+        {
+          "title": "イベント人集め",
+          "url": "/r/xpost_ja"
+        },
+        {
+          "title": "ポータル",
+          "url": "/r/portal_ja"
+        },
+        {
+          "title": "案内所",
+          "url": "/r/reddit_ja"
+        }
+      ]
+    }
+  ]
+}
