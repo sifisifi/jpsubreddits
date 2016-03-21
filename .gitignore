@@ -6,3 +6,4 @@ cabal.sandbox.config
 jpsubreddits.json
 jpsubreddits-pretty.json
 .stack-work/
+gh-pages/
